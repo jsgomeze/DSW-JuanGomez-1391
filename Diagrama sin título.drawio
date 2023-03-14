@@ -1,35 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T21:51:31.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="eTKuGgJF22Uvtl5aYiJ1" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T23:18:28.837Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="0JMzp1eMRwMF4doO5Kef" version="21.0.6" type="github">
   <diagram name="Página-1" id="GDbseRrOcx8lxy9dTTab">
     <mxGraphModel dx="1004" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9B1WoKrvLdlT04DX4LDq-1" value="Slectores css" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="174" y="160" width="480" height="80" as="geometry" />
+          <mxGeometry x="174" y="440" width="480" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RLIj0-P55pREaswhW_Ut-14" value="Process Bar" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];whiteSpace=wrap;html=1;startSize=20;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="219" y="40" width="390" height="100" as="geometry" />
+        <mxCell id="RLIj0-P55pREaswhW_Ut-14" value="" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=none;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=none;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];whiteSpace=wrap;html=1;startSize=20;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="354" y="40" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RLIj0-P55pREaswhW_Ut-15" value="inicio" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rotation=-360;" vertex="1" parent="RLIj0-P55pREaswhW_Ut-14">
+        <mxCell id="RLIj0-P55pREaswhW_Ut-15" value="inicio" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rotation=-360;" parent="RLIj0-P55pREaswhW_Ut-14" vertex="1">
           <mxGeometry x="10" y="30" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RLIj0-P55pREaswhW_Ut-16" value="Tema seleccionado" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rotation=-360;" vertex="1" parent="RLIj0-P55pREaswhW_Ut-14">
-          <mxGeometry x="98" y="30" width="102" height="60" as="geometry" />
+        <mxCell id="RLIj0-P55pREaswhW_Ut-20" value="acerca de" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="54" y="570" width="720" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="RLIj0-P55pREaswhW_Ut-17" value="acerca de" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rotation=-360;" vertex="1" parent="RLIj0-P55pREaswhW_Ut-14">
-          <mxGeometry x="188" y="30" width="102" height="60" as="geometry" />
+        <mxCell id="RLIj0-P55pREaswhW_Ut-21" value="mokup" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="54" y="960" width="266" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="RLIj0-P55pREaswhW_Ut-19" value="Mockup" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rotation=-360;" vertex="1" parent="RLIj0-P55pREaswhW_Ut-14">
-          <mxGeometry x="278" y="30" width="102" height="60" as="geometry" />
+        <mxCell id="RLIj0-P55pREaswhW_Ut-22" value="copyright" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="39" y="1320" width="750" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RLIj0-P55pREaswhW_Ut-20" value="acerca de" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="54" y="290" width="720" height="350" as="geometry" />
+        <mxCell id="RLIj0-P55pREaswhW_Ut-16" value="Tema seleccionado" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rotation=-360;" parent="1" vertex="1">
+          <mxGeometry x="363" y="160" width="102" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RLIj0-P55pREaswhW_Ut-21" value="mokup" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="54" y="680" width="266" height="320" as="geometry" />
+        <mxCell id="RLIj0-P55pREaswhW_Ut-17" value="acerca de" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rotation=-360;" parent="1" vertex="1">
+          <mxGeometry x="363" y="240" width="102" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RLIj0-P55pREaswhW_Ut-22" value="copyright" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="39" y="1040" width="750" height="80" as="geometry" />
+        <mxCell id="RLIj0-P55pREaswhW_Ut-19" value="Mockup" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rotation=-360;" parent="1" vertex="1">
+          <mxGeometry x="363" y="320" width="102" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
